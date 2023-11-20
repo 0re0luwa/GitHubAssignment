@@ -1,3 +1,3 @@
 # GitHubAssignment
 Purpose: Fixing Bugs
-Why:
+Why: Bugs are bad
