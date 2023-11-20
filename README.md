@@ -1,2 +1,2 @@
 # GitHubAssignment
-Purpose:
+Purpose: Fixing Bugs
