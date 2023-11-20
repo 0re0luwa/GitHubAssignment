@@ -1,2 +1,2 @@
 # GitHubAssignment
- Make a commit graph
+Purpose:
