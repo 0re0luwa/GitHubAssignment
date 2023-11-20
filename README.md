@@ -1,3 +1,3 @@
 # GitHubAssignment
  Course Name:CSCI 3323
-Assignment:
+Assignment: GitHub Assignment
